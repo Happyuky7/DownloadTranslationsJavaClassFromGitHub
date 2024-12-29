@@ -2,7 +2,7 @@
 DownloadTranslationsJavaClassFromGitHub
 
 
-ADD JSON DEPENDECIE
+ADD JSON Dependency
 
         <!-- https://mvnrepository.com/artifact/org.json/json -->
         <dependency>
